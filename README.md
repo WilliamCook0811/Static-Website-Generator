@@ -37,3 +37,4 @@ Developed during a **hackathon hosted by Liberty University’s Software Develop
 - **HTML5 & CSS** – generated dynamically through Python
 
 ---
+![](https://github.com/WilliamCook0811/Static-Website-Generator/blob/main/websitegenGIF.gif)
