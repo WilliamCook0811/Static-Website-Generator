@@ -2,7 +2,7 @@
 
 This project is a **Static Website Generator** with a user-friendly **Tkinter-based GUI** that allows users to create customizable HTML and CSS websites—no manual coding required.
 
-Developed during a **hackathon hosted by Liberty University’s Software Development Club** (Placed second). This tool is designed to streamline website creation with built-in themes, live previews, and support for multimedia content.
+Developed during a **hackathon hosted by Liberty University’s Software Development Club**. This tool is designed to streamline website creation with built-in themes, live previews, and support for multimedia content.
 
 ---
 
